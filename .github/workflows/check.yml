@@ -1,0 +1,34 @@
+name: Check database scripts
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_PASSWORD: postgres
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd pg_isready --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      PGPASSWORD: postgres
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Seed files are up to date with the vault
+        run: |
+          python importer/build_seed.py
+          git diff --exit-code db/seed.sql web/data/recipes.json
+      - name: Schema and seed load into Postgres
+        run: |
+          psql -h localhost -U postgres -v ON_ERROR_STOP=1 -q -f db/schema.sql -f db/seed.sql
+          psql -h localhost -U postgres -c "SELECT COUNT(*) AS recipes FROM recipe"

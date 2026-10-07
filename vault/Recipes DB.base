@@ -1,0 +1,41 @@
+filters:
+  and:
+    - file.folder == "Recipes"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.tags
+      - category
+      - cook time
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - tags
+      - category
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Desserts
+    filters:
+      and:
+        - category.contains("dessert")
+    order:
+      - file.name
+      - tags
+      - category
+    image: note.cover
+    cardSize: 120
+  - type: cards
+    name: Not Desserts
+    filters:
+      and:
+        - '!category.contains("dessert")'
+    order:
+      - file.name
+      - tags
+      - category
+    image: note.cover
+    cardSize: 120

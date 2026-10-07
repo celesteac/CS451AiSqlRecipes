@@ -1,0 +1,5 @@
+{
+  "openaiKey": "sk-...",
+  "model": "gpt-4o-mini",
+  "databaseUrl": "postgresql://recipe_bot.YOUR_PROJECT_REF:YOUR_BOT_PASSWORD@aws-0-us-west-1.pooler.supabase.com:5432/postgres"
+}

@@ -1,0 +1,135 @@
+/* Loosely modeled on Obsidian's default theme and Bases views. */
+:root {
+  --bg: #ffffff;
+  --bg-2: #f6f6f6;
+  --bg-hover: #ededed;
+  --border: #e3e3e3;
+  --text: #222222;
+  --muted: #6b6b6b;
+  --accent: #7b54e8;
+  --tag-bg: rgba(123, 84, 232, 0.1);
+  --tag-text: #6b45d6;
+  --pill-bg: #ececec;
+  --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1e1e1e;
+    --bg-2: #262626;
+    --bg-hover: #303030;
+    --border: #363636;
+    --text: #dadada;
+    --muted: #999999;
+    --accent: #a68af9;
+    --tag-bg: rgba(138, 92, 245, 0.15);
+    --tag-text: #b49dfa;
+    --pill-bg: #333333;
+  }
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.5 var(--font);
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.muted { color: var(--muted); }
+.error { color: #e5484d; }
+
+.topbar {
+  position: sticky; top: 0; z-index: 2;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 12px;
+  padding: 10px 16px;
+  background: var(--bg-2);
+  border-bottom: 1px solid var(--border);
+}
+.brand { font-weight: 600; color: var(--text); }
+.views { display: flex; gap: 2px; flex-wrap: wrap; }
+.view-tab {
+  padding: 3px 10px; border-radius: 6px;
+  color: var(--muted); font-size: 13px;
+}
+.view-tab:hover { background: var(--bg-hover); text-decoration: none; }
+.view-tab.active { background: var(--bg-hover); color: var(--text); }
+.search {
+  margin-left: auto; min-width: 220px; flex: 0 1 320px;
+  padding: 5px 10px; border-radius: 6px;
+  border: 1px solid var(--border); background: var(--bg); color: var(--text);
+  font: inherit; font-size: 13px;
+}
+
+.app { max-width: 1200px; margin: 0 auto; padding: 16px; }
+.results-count { font-size: 12px; margin-bottom: 8px; }
+.footer { text-align: center; font-size: 12px; padding: 24px 16px; }
+
+/* Table view */
+.table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px; }
+.bases-table { border-collapse: collapse; width: 100%; font-size: 14px; }
+.bases-table th, .bases-table td {
+  border-bottom: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  padding: 6px 10px; text-align: left; vertical-align: top; white-space: nowrap;
+}
+.bases-table th:last-child, .bases-table td:last-child { border-right: none; }
+.bases-table tbody tr:last-child td { border-bottom: none; }
+.bases-table tbody tr:hover { background: var(--bg-2); }
+.bases-table th { background: var(--bg-2); font-weight: 500; }
+.th-btn {
+  all: unset; cursor: pointer; color: var(--muted); font-size: 13px;
+}
+.th-btn:hover { color: var(--text); }
+.num { font-variant-numeric: tabular-nums; }
+.internal-link { font-weight: 500; }
+
+.tag {
+  display: inline-block; margin: 0 4px 2px 0; padding: 0 8px;
+  border-radius: 999px; background: var(--tag-bg); color: var(--tag-text); font-size: 12.5px;
+}
+.pill {
+  display: inline-block; margin: 0 4px 2px 0; padding: 0 8px;
+  border-radius: 4px; background: var(--pill-bg); font-size: 12.5px;
+}
+.stars { color: #e0a43a; white-space: nowrap; }
+
+/* Cards view */
+.cards {
+  display: grid; gap: 14px;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+}
+.card {
+  display: flex; flex-direction: column; overflow: hidden;
+  border: 1px solid var(--border); border-radius: 8px;
+  background: var(--bg-2); color: var(--text);
+}
+.card:hover { border-color: var(--accent); text-decoration: none; }
+.card-cover { position: relative; aspect-ratio: 4 / 3; overflow: hidden; background: var(--bg-hover); }
+.card-cover img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.cover-blank {
+  width: 100%; height: 100%; display: grid; place-items: center;
+  font-size: 40px; font-weight: 600; color: var(--muted);
+}
+.card-body { padding: 8px 10px 10px; }
+.card-title { font-weight: 600; margin-bottom: 4px; }
+.card-prop { min-height: 22px; }
+
+/* Recipe note */
+.note { max-width: 760px; margin: 0 auto; }
+.note h1 { font-size: 2em; margin: 8px 0 12px; }
+.note h2 { font-size: 1.3em; margin: 0.4em 0; }
+.note h4 { margin: 0.8em 0 0.2em; color: var(--muted); font-weight: 600; }
+.note hr { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
+.note li { margin: 4px 0; }
+.hero { display: block; max-width: 100%; max-height: 420px; border-radius: 8px; margin: 8px 0 12px; }
+.properties { margin: 8px 0 16px; font-size: 14px; }
+.prop-row { display: flex; gap: 12px; padding: 3px 0; }
+.prop-key { flex: 0 0 120px; color: var(--muted); }
+.prop-val { flex: 1; }
+
+@media (max-width: 600px) {
+  .cards { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .search { margin-left: 0; flex: 1 1 100%; min-width: 0; }
+  .prop-key { flex-basis: 96px; }
+}
