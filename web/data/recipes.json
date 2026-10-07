@@ -1,0 +1,2060 @@
+[
+ {
+  "id": 1,
+  "owner": "celeste",
+  "title": "Almond Sugar Cookies",
+  "slug": "almond-sugar-cookies",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "total_minutes": 30,
+  "yield_text": "10 large cookies",
+  "servings": null,
+  "kcal_per_serving": 412,
+  "nutrition_text": null,
+  "source_name": "brokenovenbaking.com",
+  "source_url": "https://brokenovenbaking.com/soft-almond-sugar-cookies/",
+  "cover_image_url": "images/pasted-image-20260701193602.jpg",
+  "images": [],
+  "categories": [
+   "dessert"
+  ],
+  "cuisines": [],
+  "tags": [
+   "cookie"
+  ],
+  "ingredients": [
+   {
+    "section": "Cookies",
+    "text": "10 tablespoons (140 g) unsalted butter room temperature",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "Cookies",
+    "text": "¾ cup (150 g) granulated sugar",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": "Cookies",
+    "text": "1 large egg room temperature",
+    "ingredient": "egg"
+   },
+   {
+    "section": "Cookies",
+    "text": "2 teaspoons almond extract*",
+    "ingredient": "almond extract"
+   },
+   {
+    "section": "Cookies",
+    "text": "2 cups (250 g) all-purpose flour weighed in grams or spooned and leveled",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": "Cookies",
+    "text": "1 teaspoon baking soda",
+    "ingredient": "baking soda"
+   },
+   {
+    "section": "Cookies",
+    "text": "½ teaspoon salt",
+    "ingredient": "salt"
+   },
+   {
+    "section": "Almond Icing",
+    "text": "¾ cup (90 g) powdered sugar",
+    "ingredient": "powdered sugar"
+   },
+   {
+    "section": "Almond Icing",
+    "text": "1½ tablespoons milk",
+    "ingredient": "milk"
+   },
+   {
+    "section": "Almond Icing",
+    "text": "⅛ teaspoon almond extract",
+    "ingredient": "almond extract"
+   },
+   {
+    "section": "Almond Icing",
+    "text": "¼ cup sliced almonds optional, for topping",
+    "ingredient": "sliced almonds"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Preheat oven to 350°F."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "In a large bowl, cream together the softened butter and sugar with a mixer on medium speed until light and fluffy (1-2 minutes). Mix in the egg and almond extract well."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Add the flour, baking soda, and salt to the wet ingredients and mix thoroughly to combine. Scrape the sides of the bowl as needed."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "Scoop 3-4 tablespoons of dough, roll into a ball, and place on a baking sheet 2-3 inches apart. Bake until the edges just start to tan (about 9-12 minutes)."
+   },
+   {
+    "position": 5,
+    "section": null,
+    "body": "Let the cookies cool on the pan for 5 minutes, then transfer to a wire rack to finish cooling."
+   },
+   {
+    "position": 6,
+    "section": null,
+    "body": "In a small bowl, make the icing by stirring together the powdered sugar, milk, and almond extract until smooth. Spread icing over the cooled cookies and top with a few sliced almonds."
+   }
+  ],
+  "equipment": [],
+  "notes": [
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "I usually make a little more icing than the recipe",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "maya_bakes",
+    "title": null,
+    "body": "Lemon icing instead of almond is great too.",
+    "author_name": "Maya R."
+   }
+  ],
+  "owner_name": "Celeste",
+  "avg_rating": 5.0,
+  "rating_count": 1
+ },
+ {
+  "id": 2,
+  "owner": "celeste",
+  "title": "Chicken Katsu",
+  "slug": "chicken-katsu",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 15,
+  "cook_minutes": 20,
+  "total_minutes": 35,
+  "yield_text": "4 pieces",
+  "servings": null,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "meal"
+  ],
+  "cuisines": [
+   "Asian"
+  ],
+  "tags": [
+   "chicken"
+  ],
+  "ingredients": [
+   {
+    "section": null,
+    "text": "2 chicken breast",
+    "ingredient": "chicken breast"
+   },
+   {
+    "section": null,
+    "text": "flour",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": null,
+    "text": "egg",
+    "ingredient": "egg"
+   },
+   {
+    "section": null,
+    "text": "Panko",
+    "ingredient": "panko"
+   },
+   {
+    "section": null,
+    "text": "frying oil",
+    "ingredient": "frying oil"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Cut the chicken into filles and pound them"
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Coat the chicken in flour, then egg, then panko"
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Deep fry for a couple of minutes until crispy"
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "For meal prep, place the un-fried chicken cutlets between layers of parchment paper and freeze. You can fry them from frozen later"
+   }
+  ],
+  "equipment": [],
+  "notes": [],
+  "owner_name": "Celeste",
+  "avg_rating": 4.0,
+  "rating_count": 2
+ },
+ {
+  "id": 3,
+  "owner": "celeste",
+  "title": "Crumb Cake Cookies",
+  "slug": "crumb-cake-cookies",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 30,
+  "cook_minutes": 12,
+  "total_minutes": 180,
+  "yield_text": "24 cookies",
+  "servings": null,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": "Sally's Baking 101 cookbook",
+  "source_url": null,
+  "cover_image_url": "images/crumb-cookies.jpg",
+  "images": [
+   "images/20260701-195619.jpg"
+  ],
+  "categories": [
+   "dessert"
+  ],
+  "cuisines": [],
+  "tags": [
+   "cookie",
+   "sallys"
+  ],
+  "ingredients": [
+   {
+    "section": "Crumb Topping",
+    "text": "½ cup all-purpose flour (63g)",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": "Crumb Topping",
+    "text": "⅓ cup brown sugar (67g)",
+    "ingredient": "brown sugar"
+   },
+   {
+    "section": "Crumb Topping",
+    "text": "1½ teaspoons ground cinnamon",
+    "ingredient": "cinnamon"
+   },
+   {
+    "section": "Crumb Topping",
+    "text": "4 tablespoons unsalted butter, at room temperature (56g)",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "Cookies",
+    "text": "2¼ cups all-purpose flour (281g)",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": "Cookies",
+    "text": "1 teaspoon cornstarch",
+    "ingredient": "cornstarch"
+   },
+   {
+    "section": "Cookies",
+    "text": "1 teaspoon baking powder",
+    "ingredient": "baking powder"
+   },
+   {
+    "section": "Cookies",
+    "text": "½ teaspoon salt",
+    "ingredient": "salt"
+   },
+   {
+    "section": "Cookies",
+    "text": "¼ teaspoon baking soda",
+    "ingredient": "baking soda"
+   },
+   {
+    "section": "Cookies",
+    "text": "12 tablespoons unsalted butter, at room temperature (170g)",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "Cookies",
+    "text": "½ cup brown sugar (100g)",
+    "ingredient": "brown sugar"
+   },
+   {
+    "section": "Cookies",
+    "text": "½ cup granulated sugar (100g)",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": "Cookies",
+    "text": "1 large egg, at room temperature",
+    "ingredient": "egg"
+   },
+   {
+    "section": "Cookies",
+    "text": "1 large egg yolk, at room temperature",
+    "ingredient": "egg yolk"
+   },
+   {
+    "section": "Cookies",
+    "text": "2 teaspoons vanilla extract",
+    "ingredient": "vanilla extract"
+   },
+   {
+    "section": "Icing",
+    "text": "¾ cup powdered sugar, sifted (90g)",
+    "ingredient": "powdered sugar"
+   },
+   {
+    "section": "Icing",
+    "text": "1 to 2 tablespoons milk",
+    "ingredient": "milk"
+   },
+   {
+    "section": "Icing",
+    "text": "¼ teaspoon vanilla extract",
+    "ingredient": "vanilla extract"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Make the crumb topping: In a small bowl, whisk the flour, brown sugar, and cinnamon. Using a fork or a handheld mixer on low speed, mix in the butter until crumbly. Refrigerate the topping until the cookies are shaped."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Make the cookies: In a medium bowl, whisk the flour, cornstarch, baking powder, salt, and baking soda."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "In a large bowl using a handheld or stand mixer fitted with the paddle, beat the butter, brown sugar, and granulated sugar on medium-high speed until the mixture is light and creamy, about 3 minutes. Add the egg, egg yolk, and vanilla and beat on high speed until combined, about 1 minute. Scrape down the sides of the bowl as needed. Add the flour mixture and beat on low speed until combined."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "Cover the dough tightly and refrigerate it for at least 2 hours or up to 3 days."
+   },
+   {
+    "position": 5,
+    "section": null,
+    "body": "Preheat the oven to 350°F (177°C). Line baking sheets with parchment paper or silicone baking mats. If the dough has chilled for longer than 2 hours, let it sit at room temperature for about 30 minutes."
+   },
+   {
+    "position": 6,
+    "section": null,
+    "body": "Scoop and roll the chilled cookie dough into balls, about a scant 1½ tablespoons (30g) each. Using your fingers and thumbs, pinch and press a large indent in the center of the dough ball until it resembles a shallow bowl (1). Use the \"bowl\" of dough to scoop a generous amount of cold crumb topping to fill the cookie (2). Arrange them 3 inches apart on the prepared baking sheets (3)."
+   },
+   {
+    "position": 7,
+    "section": null,
+    "body": "Bake for 12 to 14 minutes or until the edges of the cookies are very lightly browned and set. Cool the cookies on the baking sheet for 10 minutes before transferring to a cooling rack to cool completely before icing."
+   },
+   {
+    "position": 8,
+    "section": null,
+    "body": "Make the icing: In a small bowl, whisk the powdered sugar, 1 tablespoon milk, and vanilla. Add another tablespoon of milk to thin it out, if desired. Drizzle over the cooled cookies. The icing will set after about 2 hours. Store covered tightly at room temperature for up to 2 days or in the refrigerator for up to 1 week."
+   }
+  ],
+  "equipment": [],
+  "notes": [],
+  "owner_name": "Celeste",
+  "avg_rating": 4.0,
+  "rating_count": 1
+ },
+ {
+  "id": 4,
+  "owner": "celeste",
+  "title": "Fettuccine Alfredo",
+  "slug": "fettuccine-alfredo",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 15,
+  "cook_minutes": 15,
+  "total_minutes": 30,
+  "yield_text": "6 servings",
+  "servings": 6,
+  "kcal_per_serving": 964,
+  "nutrition_text": "Per serving: 964 calories; total fat 61g; saturated fat 37g; cholesterol 184mg; sodium 582mg; total carbohydrate 84g; dietary fiber 4g; total sugars 4g; protein 24g; vitamin c 0mg; calcium 303mg; iron 3mg; potassium 285mg",
+  "source_name": "allrecipes.com",
+  "source_url": "https://www.allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/",
+  "cover_image_url": "images/fettuccine.jpg",
+  "images": [],
+  "categories": [
+   "meal"
+  ],
+  "cuisines": [
+   "Italian"
+  ],
+  "tags": [
+   "pasta"
+  ],
+  "ingredients": [
+   {
+    "section": null,
+    "text": "24 ounces dry fettuccine pasta",
+    "ingredient": "fettuccine"
+   },
+   {
+    "section": null,
+    "text": "1 cup butter",
+    "ingredient": "butter"
+   },
+   {
+    "section": null,
+    "text": "¾ pint heavy cream",
+    "ingredient": "heavy cream"
+   },
+   {
+    "section": null,
+    "text": "salt and pepper to taste",
+    "ingredient": "salt"
+   },
+   {
+    "section": null,
+    "text": "1 dash garlic salt",
+    "ingredient": "garlic salt"
+   },
+   {
+    "section": null,
+    "text": "¾ cup grated Romano cheese",
+    "ingredient": "romano cheese"
+   },
+   {
+    "section": null,
+    "text": "½ cup grated Parmesan cheese",
+    "ingredient": "parmesan cheese"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Bring a large pot of lightly salted water to a boil. Add fettuccine pasta and cook for 8 to 10 minutes or until al dente; drain."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Melt butter into cream in a large saucepan over low heat; add salt, pepper, and garlic salt."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Increase the heat to medium; stir in grated Romano and Parmesan cheese until melted and sauce has thickened."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "Add cooked pasta to sauce and toss until thoroughly coated; serve immediately."
+   }
+  ],
+  "equipment": [],
+  "notes": [
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "I usually double the cheese",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "you can make it without the cream by melting the butter, tossing the pasta in the butter, then adding the cheese to the pasta",
+    "author_name": "Celeste"
+   }
+  ],
+  "owner_name": "Celeste",
+  "avg_rating": 4.0,
+  "rating_count": 2
+ },
+ {
+  "id": 7,
+  "owner": "celeste",
+  "title": "Oatmeal Cream Pies",
+  "slug": "oatmeal-cream-pies",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 15,
+  "cook_minutes": 20,
+  "total_minutes": 35,
+  "yield_text": "12 large sandwich cookies",
+  "servings": null,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": "mybakingaddiction.com",
+  "source_url": "https://www.mybakingaddiction.com/homemade-oatmeal-cream-pies/#wprm-recipe-container-30475",
+  "cover_image_url": "images/cream-pies.jpg",
+  "images": [],
+  "categories": [
+   "dessert"
+  ],
+  "cuisines": [],
+  "tags": [
+   "cookie"
+  ],
+  "ingredients": [
+   {
+    "section": "The Cookies",
+    "text": "1 cup unsalted butter softened",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "The Cookies",
+    "text": "¾ cup firmly packed light brown sugar",
+    "ingredient": "brown sugar"
+   },
+   {
+    "section": "The Cookies",
+    "text": "½ cup granulated sugar",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": "The Cookies",
+    "text": "2 large eggs",
+    "ingredient": "egg"
+   },
+   {
+    "section": "The Cookies",
+    "text": "1 teaspoon pure vanilla extract",
+    "ingredient": "vanilla extract"
+   },
+   {
+    "section": "The Cookies",
+    "text": "1 ½ cups all-purpose flour",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": "The Cookies",
+    "text": "1 teaspoon baking soda",
+    "ingredient": "baking soda"
+   },
+   {
+    "section": "The Cookies",
+    "text": "1 teaspoon ground cinnamon",
+    "ingredient": "cinnamon"
+   },
+   {
+    "section": "The Cookies",
+    "text": "½ teaspoon salt",
+    "ingredient": "salt"
+   },
+   {
+    "section": "The Cookies",
+    "text": "3 cups quick or old fashioned oats",
+    "ingredient": "oats"
+   },
+   {
+    "section": "For the Cream Filling",
+    "text": "¾ cup unsalted butter softened",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "For the Cream Filling",
+    "text": "2 ½ cups confectioners’ sugar sifted",
+    "ingredient": "powdered sugar"
+   },
+   {
+    "section": "For the Cream Filling",
+    "text": "1 teaspoon pure vanilla extract",
+    "ingredient": "vanilla extract"
+   },
+   {
+    "section": "For the Cream Filling",
+    "text": "1 tablespoon milk or half and half",
+    "ingredient": "milk"
+   }
+  ],
+  "steps": [],
+  "equipment": [],
+  "notes": [
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Use extra cream cheese for the filling",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Melt the butter s little bit so the cookies spread and are bigger and thinner (if you want sandwich cookies)",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "We preferred the taste with old fashioned oats over quick oats",
+    "author_name": "Celeste"
+   }
+  ],
+  "owner_name": "Celeste",
+  "avg_rating": null,
+  "rating_count": 0
+ },
+ {
+  "id": 8,
+  "owner": "celeste",
+  "title": "Orange Chicken",
+  "slug": "orange-chicken",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 60,
+  "cook_minutes": 10,
+  "total_minutes": 75,
+  "yield_text": null,
+  "servings": null,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": "I combined multiple recipes",
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "meal"
+  ],
+  "cuisines": [
+   "American"
+  ],
+  "tags": [
+   "chicken"
+  ],
+  "ingredients": [],
+  "steps": [],
+  "equipment": [],
+  "notes": [
+   {
+    "author": "celeste",
+    "title": "Meal Prep Advice from Gemini",
+    "body": "Freeze the chicken after frying and without the sauce or onions.\n\nFreezing raw, egg-and-flour coated chicken causes the batter to absorb moisture from the meat, turning into a soggy paste that will not fry properly from frozen. Commercial frozen chicken nuggets and tenders are always par-fried or fully fried before freezing for this exact reason.\n\nStep-by-Step Meal Prep Strategy\n\n- Fry completely (or par-fry): Fry the chicken pieces until they are cooked through and lightly golden. For an extra-crispy result upon reheating, use a 50/50 mix of cornstarch and flour in your dredge.\n- Cool thoroughly: Let the fried chicken cool completely on a wire rack. Freezing warm chicken traps steam, creating ice crystals that ruin crispiness.\n- Flash freeze to prevent clumping: Spread the cooled chicken pieces in a single layer on a parchment-lined baking sheet. Freeze for 1 to 2 hours until solid, then transfer them into a freezer bag or airtight container.\n- Keep sauce and onions separate: Store the Panda Express orange sauce and sautéed onions separately (either in small freezer-safe containers or in the fridge if using within a week). Coating the chicken in sauce before freezing guarantees a mushy, soggy crust when reheated.\n\nBest Reheating Methods\n\n- Air Fryer (Best): Cook from frozen at 380°F (193°C) for 6–8 minutes (or 400°F / 204°C for 2–3 additional minutes to maximize crunch), shaking the basket halfway through.\n- Oven: Bake from frozen on a wire rack set inside a baking sheet at 400°F (204°C) for 12–15 minutes until sizzling and crisp.\n- Assembly: Warm the sauce and sautéed onions in a skillet or wok over medium heat. Once the chicken is hot and crispy from the air fryer or oven, immediately toss it into the sauce off the heat for 30–60 seconds so it gets evenly coated while staying crunchy.",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": "How to make crispy reheated fried chicken advice from Gemini",
+    "body": "The secret to keeping fried chicken crunchy under a wet, sugary glaze lies in minimizing gluten formation and reducing internal moisture in the crust.\nIngredient Upgrades\n * Cornstarch or Potato Starch (50% to 100% of dredge): All-purpose flour develops gluten when wet, creating a spongy structure that rapidly absorbs sauce. Pure starches contain no gluten and form a glass-like, rigid shell that resists moisture penetration.\n * Rice Flour: Replacing 20–30% of your flour with white rice flour creates an airy, brittle crunch (standard in Korean fried chicken).\n * Baking Powder: Adding 1/2 teaspoon per cup of dredge raises the pH and creates microscopic carbon dioxide bubbles during frying. This adds surface area and micro-pockets that stay shatteringly crisp.\n * Vodka or High-Proof Alcohol: If using a wet batter, substitute part of the water with vodka. Alcohol evaporates much faster than water in hot oil, dehydrating the crust faster and preventing gluten from forming.\nCrucial Techniques\n * The Double-Fry Method:\n   * First fry (325°F / 163°C for 3–4 mins): Cooks the meat through and drives out inner moisture.\n   * Rest (5–10 mins on a wire rack): Allows remaining steam to migrate to the surface.\n   * Second fry (375°F–390°F / 190°C–200°C for 1–2 mins): Instantly vaporizes surface moisture, creating a hard, blistered shell that stays crunchy far longer.\n * Drain on a Wire Rack (Never Paper Towels): Paper towels trap escaping steam underneath the pieces, softening the bottom crust within seconds.\n * Thicken the Sauce Properly: A watery sauce will immediately ruin a crust. Ensure the orange sauce is cooked down with enough cornstarch slurry so it coats the back of a spoon with a glossy, syrup-like consistency.\n * Flash-Toss Off the Heat: Never simmer fried chicken in the sauce. Bring the sauce to a bubbling glaze in the pan, turn the heat completely off, dump in the hot chicken, and toss for just 15–20 seconds to coat.",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "jordan_cooks",
+    "title": null,
+    "body": "Air fryer reheat at 400°F kept them crunchy.",
+    "author_name": "Jordan T."
+   }
+  ],
+  "owner_name": "Celeste",
+  "avg_rating": 5.0,
+  "rating_count": 1
+ },
+ {
+  "id": 9,
+  "owner": "celeste",
+  "title": "Orange pull apart bread",
+  "slug": "orange-pull-apart-bread",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 45,
+  "cook_minutes": 30,
+  "total_minutes": 150,
+  "yield_text": "1 loaf",
+  "servings": null,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": "howsweeteats.com",
+  "source_url": "https://www.howsweeteats.com/2014/12/sweet-orange-cinnamon-pull-apart-bread/",
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "dessert",
+   "bread"
+  ],
+  "cuisines": [
+   "American"
+  ],
+  "tags": [
+   "orange"
+  ],
+  "ingredients": [
+   {
+    "section": "Dough",
+    "text": "1/3 cup whole milk, warmed (about 110°F)",
+    "ingredient": "milk"
+   },
+   {
+    "section": "Dough",
+    "text": "1 packet (2 1/4 tsp) active dry yeast",
+    "ingredient": "active dry yeast"
+   },
+   {
+    "section": "Dough",
+    "text": "1/4 cup granulated sugar, divided",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": "Dough",
+    "text": "4 tbsp unsalted butter, melted and cooled slightly",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "Dough",
+    "text": "2 large eggs, at room temperature",
+    "ingredient": "egg"
+   },
+   {
+    "section": "Dough",
+    "text": "1 tsp vanilla extract",
+    "ingredient": "vanilla extract"
+   },
+   {
+    "section": "Dough",
+    "text": "2 3/4 to 3 cups all-purpose flour",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": "Dough",
+    "text": "1/2 tsp salt",
+    "ingredient": "salt"
+   },
+   {
+    "section": "Orange Cinnamon Filling",
+    "text": "1/2 cup granulated sugar",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": "Orange Cinnamon Filling",
+    "text": "1/4 cup packed light brown sugar",
+    "ingredient": "brown sugar"
+   },
+   {
+    "section": "Orange Cinnamon Filling",
+    "text": "1 1/2 tbsp ground cinnamon",
+    "ingredient": "cinnamon"
+   },
+   {
+    "section": "Orange Cinnamon Filling",
+    "text": "Zest of 2 large fresh oranges",
+    "ingredient": "orange"
+   },
+   {
+    "section": "Orange Cinnamon Filling",
+    "text": "4 tbsp unsalted butter, melted",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "Orange Glaze",
+    "text": "1 cup powdered sugar",
+    "ingredient": "powdered sugar"
+   },
+   {
+    "section": "Orange Glaze",
+    "text": "2–3 tbsp freshly squeezed orange juice",
+    "ingredient": "orange"
+   },
+   {
+    "section": "Orange Glaze",
+    "text": "1/2 tsp fresh orange zest",
+    "ingredient": "orange"
+   },
+   {
+    "section": "Orange Glaze",
+    "text": "1/2 tsp vanilla extract",
+    "ingredient": "vanilla extract"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": "Make the Dough",
+    "body": "In the bowl of a stand mixer, combine the warm milk, yeast, and 1 teaspoon of the sugar. Let sit for 5–10 minutes until foamy."
+   },
+   {
+    "position": 2,
+    "section": "Make the Dough",
+    "body": "Add the remaining sugar, melted butter, eggs, and vanilla extract. Whisk to combine."
+   },
+   {
+    "position": 3,
+    "section": "Make the Dough",
+    "body": "Add 2 3/4 cups of flour and the salt. Using the dough hook attachment, mix on low speed until a soft dough forms."
+   },
+   {
+    "position": 4,
+    "section": "Make the Dough",
+    "body": "Knead on medium-low speed for 5–7 minutes (or knead by hand on a lightly floured surface) until smooth and elastic. If too sticky, add the remaining 1/4 cup of flour 1 tablespoon at a time."
+   },
+   {
+    "position": 5,
+    "section": "Make the Dough",
+    "body": "Shape the dough into a ball and place it in an oiled bowl, turning once to grease the top. Cover with plastic wrap or a clean towel and let rise in a warm place until doubled in size, about 1 hour."
+   },
+   {
+    "position": 6,
+    "section": "Prepare the Filling & Shape",
+    "body": "Butter and lightly flour a 9x5-inch loaf pan."
+   },
+   {
+    "position": 7,
+    "section": "Prepare the Filling & Shape",
+    "body": "In a small bowl, rub the orange zest into the granulated sugar and brown sugar using your fingers until fragrant. Stir in the cinnamon."
+   },
+   {
+    "position": 8,
+    "section": "Prepare the Filling & Shape",
+    "body": "Punch down the dough and turn it out onto a lightly floured surface. Roll into approximately a 12x20-inch rectangle."
+   },
+   {
+    "position": 9,
+    "section": "Prepare the Filling & Shape",
+    "body": "Brush the surface evenly with the 4 tablespoons of melted butter, then sprinkle the orange-cinnamon sugar evenly over the butter."
+   },
+   {
+    "position": 10,
+    "section": "Prepare the Filling & Shape",
+    "body": "Cut the dough lengthwise into 6 equal strips. Stack the strips on top of each other, then cut the stack into 6 equal squares/rectangles (yielding 6 stacks of layered squares)."
+   },
+   {
+    "position": 11,
+    "section": "Prepare the Filling & Shape",
+    "body": "Layer the dough squares cut-side up (like index cards in a file box) into the prepared loaf pan."
+   },
+   {
+    "position": 12,
+    "section": "Prepare the Filling & Shape",
+    "body": "Cover loosely and let rise again for 30–45 minutes, until puffy."
+   },
+   {
+    "position": 13,
+    "section": "Bake & Glaze",
+    "body": "Preheat your oven to 350°F (175°C)."
+   },
+   {
+    "position": 14,
+    "section": "Bake & Glaze",
+    "body": "Bake the loaf for 30–35 minutes, until golden brown on top and baked through the center. (If the top browns too quickly, tent loosely with aluminum foil for the last 10 minutes)."
+   },
+   {
+    "position": 15,
+    "section": "Bake & Glaze",
+    "body": "Let the bread cool in the pan on a wire rack for 10–15 minutes."
+   },
+   {
+    "position": 16,
+    "section": "Bake & Glaze",
+    "body": "Meanwhile, whisk together the powdered sugar, orange juice, orange zest, and vanilla extract in a small bowl until smooth."
+   },
+   {
+    "position": 17,
+    "section": "Bake & Glaze",
+    "body": "Drizzle the glaze generously over the warm bread and serve warm."
+   }
+  ],
+  "equipment": [],
+  "notes": [
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Zest First: Always zest your oranges before juicing them for the glaze.",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Serving: Pull apart the individual warm layers with your fingers for the best texture and experience.",
+    "author_name": "Celeste"
+   }
+  ],
+  "owner_name": "Celeste",
+  "avg_rating": null,
+  "rating_count": 0
+ },
+ {
+  "id": 10,
+  "owner": "celeste",
+  "title": "Peanut Butter Blossoms",
+  "slug": "peanut-butter-blossoms",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 15,
+  "cook_minutes": 10,
+  "total_minutes": 30,
+  "yield_text": "32 cookies",
+  "servings": null,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": "images/pb-bloss.jpg",
+  "images": [],
+  "categories": [
+   "dessert"
+  ],
+  "cuisines": [],
+  "tags": [
+   "cookie",
+   "halloween"
+  ],
+  "ingredients": [
+   {
+    "section": null,
+    "text": "8 Tbsp (1 stick) butter, room temperature",
+    "ingredient": "butter"
+   },
+   {
+    "section": null,
+    "text": "¾ cup creamy peanut butter",
+    "ingredient": "peanut butter"
+   },
+   {
+    "section": null,
+    "text": "½ cup packed brown sugar",
+    "ingredient": "brown sugar"
+   },
+   {
+    "section": null,
+    "text": "⅔ cup granulated sugar, divided (⅓ cup for dough, ⅓ cup for rolling)",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": null,
+    "text": "1 tsp vanilla extract",
+    "ingredient": "vanilla extract"
+   },
+   {
+    "section": null,
+    "text": "1 large egg, room temperature",
+    "ingredient": "egg"
+   },
+   {
+    "section": null,
+    "text": "1¼ cups all-purpose flour",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": null,
+    "text": "½ tsp baking soda",
+    "ingredient": "baking soda"
+   },
+   {
+    "section": null,
+    "text": "¼ tsp kosher salt",
+    "ingredient": "kosher salt"
+   },
+   {
+    "section": null,
+    "text": "32 chocolate kisses (or mini reeses cups)",
+    "ingredient": "chocolate kiss"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Whisk flour and baking soda together in a medium bowl. Set aside."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Beat together butter, peanut butter, brown sugar, ⅓ cup of the granulated sugar, and salt until well-combined and slightly lighter in color."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Beat in the egg and vanilla. Then add the flour mixture and mix until just combined."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "If the dough is too sticky to roll, refrigerate for 15 minutes."
+   },
+   {
+    "position": 5,
+    "section": null,
+    "body": "Put the remaining ⅓ cup granulated sugar in a bowl. Roll dough into balls, roll in the sugar, and arrange on a baking sheet."
+   },
+   {
+    "position": 6,
+    "section": null,
+    "body": "Bake at 375°F for 8–10 minutes, until they look puffy and crackled and are just starting to brown on the bottom."
+   },
+   {
+    "position": 7,
+    "section": null,
+    "body": "Immediately press one chocolate kiss on top of each cookie and allow to cool to doneness."
+   }
+  ],
+  "equipment": [],
+  "notes": [
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "I think I used sallys chocolate buttercream for the legs of the spiders",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "when using reeces peanut butter cups, allow the cookies to cool a little before putting the reeses on. Otherwise they melt too much",
+    "author_name": "Celeste"
+   }
+  ],
+  "owner_name": "Celeste",
+  "avg_rating": 5.0,
+  "rating_count": 1
+ },
+ {
+  "id": 11,
+  "owner": "celeste",
+  "title": "Salted Caramel Brownies",
+  "slug": "salted-caramel-brownies",
+  "visibility": "public",
+  "description": "Rich, ultra-fudgy chocolate brownies layered and swirled with homemade salted caramel and topped with flaky sea salt.",
+  "forked_from": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "total_minutes": null,
+  "yield_text": null,
+  "servings": null,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "dessert"
+  ],
+  "cuisines": [],
+  "tags": [],
+  "ingredients": [
+   {
+    "section": "Salted Caramel Sauce",
+    "text": "1 cup (200g) granulated sugar",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": "Salted Caramel Sauce",
+    "text": "6 tbsp (85g) unsalted butter, cut into cubes and at room temperature",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "Salted Caramel Sauce",
+    "text": "1/2 cup (120ml) heavy cream, room temperature",
+    "ingredient": "heavy cream"
+   },
+   {
+    "section": "Salted Caramel Sauce",
+    "text": "1 tsp flaky sea salt (such as Maldon)",
+    "ingredient": "flaky sea salt"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "1 cup (226g / 2 sticks) unsalted butter",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "8 oz (225g) semi-sweet or bittersweet chocolate, roughly chopped",
+    "ingredient": "chocolate"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "1 cup (200g) granulated sugar",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "1/2 cup (100g) light brown sugar, packed",
+    "ingredient": "brown sugar"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "4 large eggs, room temperature",
+    "ingredient": "egg"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "1 tsp pure vanilla extract",
+    "ingredient": "vanilla extract"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "1 cup (120g) all-purpose flour",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "1/3 cup (35g) Dutch-processed cocoa powder",
+    "ingredient": "cocoa powder"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "1/2 tsp kosher salt",
+    "ingredient": "kosher salt"
+   },
+   {
+    "section": "Brownie Batter",
+    "text": "Flaky sea salt, for finishing",
+    "ingredient": "flaky sea salt"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": "Make the Salted Caramel",
+    "body": "Heat granulated sugar in a medium saucepan over medium-low heat, stirring constantly with a heatproof spatula or wooden spoon. The sugar will form clumps and eventually melt into a thick amber-colored liquid (keep a close eye so it doesn't burn)."
+   },
+   {
+    "position": 2,
+    "section": "Make the Salted Caramel",
+    "body": "Once the sugar is completely melted, carefully add the cubed butter. Whisk vigorously until the butter is fully melted and incorporated (the mixture will bubble vigorously)."
+   },
+   {
+    "position": 3,
+    "section": "Make the Salted Caramel",
+    "body": "Slowly drizzle in the heavy cream while continuing to whisk. Allow the mixture to boil for 1 minute."
+   },
+   {
+    "position": 4,
+    "section": "Make the Salted Caramel",
+    "body": "Remove from heat and stir in the 1 tsp flaky sea salt. Set aside to cool slightly while you make the brownie batter."
+   },
+   {
+    "position": 5,
+    "section": "Make the Brownie Batter",
+    "body": "Preheat your oven to 350°F (175°C). Line a 9x9-inch metal baking pan with parchment paper, leaving an overhang on the sides for easy removal."
+   },
+   {
+    "position": 6,
+    "section": "Make the Brownie Batter",
+    "body": "In a heatproof bowl set over a pot of simmering water (or in 30-second bursts in the microwave), melt the butter and chopped chocolate together until smooth and glossy. Set aside to cool slightly."
+   },
+   {
+    "position": 7,
+    "section": "Make the Brownie Batter",
+    "body": "In a large bowl, whisk together the granulated sugar, brown sugar, eggs, and vanilla extract vigorously for 1–2 minutes until pale, frothy, and slightly thickened (this creates the crinkly top)."
+   },
+   {
+    "position": 8,
+    "section": "Make the Brownie Batter",
+    "body": "Slowly pour the melted chocolate-butter mixture into the egg mixture, whisking constantly until combined."
+   },
+   {
+    "position": 9,
+    "section": "Make the Brownie Batter",
+    "body": "Sift in the flour, cocoa powder, and salt. Gently fold with a rubber spatula just until no dry flour streaks remain (do not overmix)."
+   },
+   {
+    "position": 10,
+    "section": "Assemble & Bake",
+    "body": "Pour roughly half of the brownie batter into the prepared baking pan and smooth into an even layer."
+   },
+   {
+    "position": 11,
+    "section": "Assemble & Bake",
+    "body": "Drizzle about 1/3 to 1/2 cup of the salted caramel sauce evenly over the batter layer."
+   },
+   {
+    "position": 12,
+    "section": "Assemble & Bake",
+    "body": "Pour the remaining brownie batter over the top, gently smoothing it out."
+   },
+   {
+    "position": 13,
+    "section": "Assemble & Bake",
+    "body": "Spoon additional tablespoons of caramel over the top layer and use a butter knife or toothpick to gently swirl the caramel into the top batter. (Save any leftover caramel for serving)."
+   },
+   {
+    "position": 14,
+    "section": "Assemble & Bake",
+    "body": "Bake at 350°F (175°C) for 32–38 minutes, until the edges are set and a toothpick inserted into the center comes out with moist, fudgy crumbs (not wet batter)."
+   },
+   {
+    "position": 15,
+    "section": "Assemble & Bake",
+    "body": "Remove from the oven and immediately sprinkle generously with flaky sea salt."
+   },
+   {
+    "position": 16,
+    "section": "Assemble & Bake",
+    "body": "Allow the brownies to cool completely in the pan at room temperature before slicing for clean cuts."
+   }
+  ],
+  "equipment": [
+   "9x9-inch (or 8x8-inch) metal baking pan",
+   "Parchment paper",
+   "Medium saucepan (for caramel)",
+   "Heatproof mixing bowl"
+  ],
+  "notes": [
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Room Temperature Dairy: Ensure your butter and heavy cream for the caramel are at room temperature to avoid seizing the melted sugar.",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Clean Slices: For ultra-clean bakery-style cuts, chill the fully-cooled brownies in the refrigerator for 1–2 hours before slicing with a sharp chef's knife wiped clean between cuts.",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Pan Type: Use a light-colored metal pan rather than glass, as glass retains heat unevenly and can cause the edges to overbake before the center sets.",
+    "author_name": "Celeste"
+   }
+  ],
+  "owner_name": "Celeste",
+  "avg_rating": 5.0,
+  "rating_count": 1
+ },
+ {
+  "id": 14,
+  "owner": "celeste",
+  "title": "Stovetop Popcorn",
+  "slug": "stovetop-popcorn",
+  "visibility": "public",
+  "description": "A classic, foolproof method for making light, crispy, and perfectly popped popcorn on the stove without burnt kernels.",
+  "forked_from": null,
+  "prep_minutes": 2,
+  "cook_minutes": 5,
+  "total_minutes": 7,
+  "yield_text": "4 servings",
+  "servings": 4,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": "pathculture.com",
+  "source_url": "https://www.pathculture.com/food-recipes/how-to-make-popcorn-on-the-stove/",
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "snack or side"
+  ],
+  "cuisines": [],
+  "tags": [
+   "snack"
+  ],
+  "ingredients": [
+   {
+    "section": "Popcorn Base",
+    "text": "2–3 tbsp high-smoke point oil (such as coconut oil, avocado oil, or canola oil)",
+    "ingredient": "frying oil"
+   },
+   {
+    "section": "Popcorn Base",
+    "text": "1/3 cup high-quality popping corn kernels",
+    "ingredient": "popcorn kernels"
+   },
+   {
+    "section": "Seasoning & Toppings (to taste)",
+    "text": "2–3 tbsp unsalted butter, melted (optional)",
+    "ingredient": "unsalted butter"
+   },
+   {
+    "section": "Seasoning & Toppings (to taste)",
+    "text": "1/2–1 tsp fine sea salt or popcorn salt",
+    "ingredient": "sea salt"
+   },
+   {
+    "section": "Seasoning & Toppings (to taste)",
+    "text": "Optional flavorings: Nutritional yeast, smoked paprika, garlic powder, or grated parmesan",
+    "ingredient": "nutritional yeast"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Test the Oil: Add the oil and 3–4 \"test\" kernels to the pot. Cover with the lid and place over medium-high heat."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Wait for the Test Kernels: When the test kernels pop, the oil is at the ideal temperature. Remove the popped test kernels with a spoon or tongs."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Even Heating: Add the remaining 1/3 cup of kernels in a single, even layer. Cover the pot and immediately remove it from the heat for 30 seconds (this brings all kernels up to near-popping temperature so they pop at the same time and don't burn)."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "Pop the Corn: Return the pot to medium-high heat. Keep the lid slightly cracked/ajar to allow steam to escape (this keeps the popcorn light and crisp rather than chewy). Shake the pot gently back and forth over the burner while the corn pops."
+   },
+   {
+    "position": 5,
+    "section": null,
+    "body": "Remove from Heat: Once the popping slows to roughly 2–3 seconds between pops, remove the pot immediately from the heat. Remove the lid and dump the popcorn into your serving bowl right away to prevent trapped steam or scorching at the bottom."
+   },
+   {
+    "position": 6,
+    "section": null,
+    "body": "Season and Serve: Drizzle warm melted butter over the top and toss thoroughly. Sprinkle fine salt and desired seasonings, tossing gently until evenly coated."
+   }
+  ],
+  "equipment": [
+   "Large, heavy-bottomed pot with a lid (approx. 3–4 quarts)",
+   "Large serving bowl"
+  ],
+  "notes": [
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Vent Steam: Leaving the lid slightly cracked while popping allows steam to escape, which is the secret to extra-crispy stovetop popcorn.",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Fine Salt: Use fine table salt or grind sea salt with a mortar and pestle or spice grinder so it clings to the kernels better.",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "celeste",
+    "title": null,
+    "body": "Oil Choice: Coconut oil gives the most authentic movie-theater flavor, while ghee or clarified butter adds a rich, buttery taste without burning.",
+    "author_name": "Celeste"
+   },
+   {
+    "author": "sam_eats",
+    "title": null,
+    "body": "Coconut oil really does taste like the movies.",
+    "author_name": "Sam K."
+   }
+  ],
+  "owner_name": "Celeste",
+  "avg_rating": 4.5,
+  "rating_count": 2
+ },
+ {
+  "id": 15,
+  "owner": "jordan_cooks",
+  "title": "Chicken Katsu Curry",
+  "slug": "chicken-katsu-curry",
+  "visibility": "public",
+  "description": null,
+  "forked_from": 2,
+  "prep_minutes": 20,
+  "cook_minutes": 35,
+  "total_minutes": 55,
+  "yield_text": "4 servings",
+  "servings": 4,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "meal"
+  ],
+  "cuisines": [
+   "Japanese"
+  ],
+  "tags": [
+   "chicken",
+   "curry"
+  ],
+  "ingredients": [
+   {
+    "section": null,
+    "text": "2 chicken breast",
+    "ingredient": "chicken breast"
+   },
+   {
+    "section": null,
+    "text": "1/2 cup all-purpose flour",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": null,
+    "text": "2 large eggs",
+    "ingredient": "egg"
+   },
+   {
+    "section": null,
+    "text": "1 1/2 cups panko",
+    "ingredient": "panko"
+   },
+   {
+    "section": null,
+    "text": "frying oil",
+    "ingredient": "frying oil"
+   },
+   {
+    "section": null,
+    "text": "1 onion, sliced",
+    "ingredient": "onion"
+   },
+   {
+    "section": null,
+    "text": "2 carrots, chopped",
+    "ingredient": "carrot"
+   },
+   {
+    "section": null,
+    "text": "1 potato, cubed",
+    "ingredient": "potato"
+   },
+   {
+    "section": null,
+    "text": "1 box Japanese curry roux",
+    "ingredient": "curry roux"
+   },
+   {
+    "section": null,
+    "text": "rice to serve",
+    "ingredient": "rice"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Make the katsu as in Celeste's Chicken Katsu."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Saute the onion, carrot, and potato, cover with water, and simmer until tender."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Turn off the heat and dissolve the curry roux, then simmer until thick."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "Slice the katsu and serve over rice with the curry."
+   }
+  ],
+  "equipment": [],
+  "notes": [
+   {
+    "author": "jordan_cooks",
+    "title": null,
+    "body": "Adapted from Celeste's katsu. The curry makes it a full dinner.",
+    "author_name": "Jordan T."
+   }
+  ],
+  "owner_name": "Jordan T.",
+  "avg_rating": 5.0,
+  "rating_count": 1
+ },
+ {
+  "id": 17,
+  "owner": "jordan_cooks",
+  "title": "Weeknight Turkey Chili",
+  "slug": "weeknight-turkey-chili",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 15,
+  "cook_minutes": 40,
+  "total_minutes": 55,
+  "yield_text": "6 servings",
+  "servings": 6,
+  "kcal_per_serving": 380,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "meal"
+  ],
+  "cuisines": [
+   "American"
+  ],
+  "tags": [
+   "chili",
+   "soup"
+  ],
+  "ingredients": [
+   {
+    "section": null,
+    "text": "1 tablespoon olive oil",
+    "ingredient": "olive oil"
+   },
+   {
+    "section": null,
+    "text": "1 lb ground turkey",
+    "ingredient": "ground turkey"
+   },
+   {
+    "section": null,
+    "text": "1 onion, diced",
+    "ingredient": "onion"
+   },
+   {
+    "section": null,
+    "text": "1 bell pepper, diced",
+    "ingredient": "bell pepper"
+   },
+   {
+    "section": null,
+    "text": "3 cloves garlic, minced",
+    "ingredient": "garlic"
+   },
+   {
+    "section": null,
+    "text": "2 tablespoons chili powder",
+    "ingredient": "chili powder"
+   },
+   {
+    "section": null,
+    "text": "1 teaspoon cumin",
+    "ingredient": "cumin"
+   },
+   {
+    "section": null,
+    "text": "1 can (28 oz) crushed tomatoes",
+    "ingredient": "tomato"
+   },
+   {
+    "section": null,
+    "text": "2 cans kidney beans, drained",
+    "ingredient": "kidney beans"
+   },
+   {
+    "section": null,
+    "text": "salt to taste",
+    "ingredient": "salt"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Brown the turkey in the oil, then add the onion, bell pepper, and garlic and cook until soft."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Stir in the chili powder and cumin for one minute."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Add the tomatoes and beans, then simmer 30 minutes, stirring now and then."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "Season with salt and serve with cheese and sour cream."
+   }
+  ],
+  "equipment": [],
+  "notes": [],
+  "owner_name": "Jordan T.",
+  "avg_rating": 4.0,
+  "rating_count": 1
+ },
+ {
+  "id": 18,
+  "owner": "maya_bakes",
+  "title": "Banana Bread",
+  "slug": "banana-bread",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 15,
+  "cook_minutes": 60,
+  "total_minutes": 75,
+  "yield_text": "1 loaf",
+  "servings": null,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "bread",
+   "dessert"
+  ],
+  "cuisines": [
+   "American"
+  ],
+  "tags": [
+   "banana",
+   "quick bread"
+  ],
+  "ingredients": [
+   {
+    "section": null,
+    "text": "3 ripe bananas, mashed",
+    "ingredient": "banana"
+   },
+   {
+    "section": null,
+    "text": "1/3 cup butter, melted",
+    "ingredient": "butter"
+   },
+   {
+    "section": null,
+    "text": "3/4 cup brown sugar",
+    "ingredient": "brown sugar"
+   },
+   {
+    "section": null,
+    "text": "1 large egg",
+    "ingredient": "egg"
+   },
+   {
+    "section": null,
+    "text": "1 teaspoon vanilla extract",
+    "ingredient": "vanilla extract"
+   },
+   {
+    "section": null,
+    "text": "1 teaspoon baking soda",
+    "ingredient": "baking soda"
+   },
+   {
+    "section": null,
+    "text": "1/4 teaspoon salt",
+    "ingredient": "salt"
+   },
+   {
+    "section": null,
+    "text": "1 1/2 cups all-purpose flour",
+    "ingredient": "all-purpose flour"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Preheat the oven to 350°F and grease a 9x5-inch loaf pan."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Stir the melted butter into the mashed bananas, then mix in the sugar, egg, and vanilla."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Sprinkle the baking soda and salt over the mixture, then fold in the flour until just combined."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "Pour into the pan and bake 55 to 65 minutes, until a toothpick comes out clean."
+   }
+  ],
+  "equipment": [],
+  "notes": [
+   {
+    "author": "maya_bakes",
+    "title": null,
+    "body": "Freeze overripe bananas in their peels and thaw them for this.",
+    "author_name": "Maya R."
+   }
+  ],
+  "owner_name": "Maya R.",
+  "avg_rating": 4.0,
+  "rating_count": 2
+ },
+ {
+  "id": 20,
+  "owner": "maya_bakes",
+  "title": "Lemon Bars",
+  "slug": "lemon-bars",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 20,
+  "cook_minutes": 40,
+  "total_minutes": 180,
+  "yield_text": "16 bars",
+  "servings": null,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "dessert"
+  ],
+  "cuisines": [
+   "American"
+  ],
+  "tags": [
+   "lemon",
+   "bars"
+  ],
+  "ingredients": [
+   {
+    "section": "Crust",
+    "text": "1 cup butter, softened",
+    "ingredient": "butter"
+   },
+   {
+    "section": "Crust",
+    "text": "1/2 cup granulated sugar",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": "Crust",
+    "text": "2 cups all-purpose flour",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": "Filling",
+    "text": "4 large eggs",
+    "ingredient": "egg"
+   },
+   {
+    "section": "Filling",
+    "text": "1 1/2 cups granulated sugar",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": "Filling",
+    "text": "1/4 cup all-purpose flour",
+    "ingredient": "all-purpose flour"
+   },
+   {
+    "section": "Filling",
+    "text": "2 lemons, juiced and zested",
+    "ingredient": "lemon"
+   },
+   {
+    "section": "Filling",
+    "text": "powdered sugar for dusting",
+    "ingredient": "powdered sugar"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Preheat oven to 350°F. Press the butter, sugar, and flour together into a 9x13-inch pan and bake 15 to 20 minutes."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Whisk the eggs, sugar, flour, lemon juice, and zest until smooth."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Pour over the hot crust and bake 20 minutes more, until set."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "Cool completely, chill, then dust with powdered sugar and cut into bars."
+   }
+  ],
+  "equipment": [],
+  "notes": [],
+  "owner_name": "Maya R.",
+  "avg_rating": 5.0,
+  "rating_count": 1
+ },
+ {
+  "id": 21,
+  "owner": "priya_p",
+  "title": "Chana Masala",
+  "slug": "chana-masala",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 10,
+  "cook_minutes": 30,
+  "total_minutes": 40,
+  "yield_text": "4 servings",
+  "servings": 4,
+  "kcal_per_serving": 320,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "meal"
+  ],
+  "cuisines": [
+   "Indian"
+  ],
+  "tags": [
+   "vegetarian",
+   "curry"
+  ],
+  "ingredients": [
+   {
+    "section": null,
+    "text": "2 tablespoons olive oil",
+    "ingredient": "olive oil"
+   },
+   {
+    "section": null,
+    "text": "1 onion, diced",
+    "ingredient": "onion"
+   },
+   {
+    "section": null,
+    "text": "3 cloves garlic, minced",
+    "ingredient": "garlic"
+   },
+   {
+    "section": null,
+    "text": "1 tablespoon ginger, grated",
+    "ingredient": "ginger"
+   },
+   {
+    "section": null,
+    "text": "2 teaspoons garam masala",
+    "ingredient": "garam masala"
+   },
+   {
+    "section": null,
+    "text": "1 teaspoon cumin",
+    "ingredient": "cumin"
+   },
+   {
+    "section": null,
+    "text": "1 can (14 oz) diced tomatoes",
+    "ingredient": "tomato"
+   },
+   {
+    "section": null,
+    "text": "2 cans chickpeas, drained",
+    "ingredient": "chickpeas"
+   },
+   {
+    "section": null,
+    "text": "1 teaspoon salt",
+    "ingredient": "salt"
+   },
+   {
+    "section": null,
+    "text": "cilantro and rice to serve",
+    "ingredient": "rice"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Cook the onion in oil until golden, then add the garlic and ginger."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Stir in the garam masala and cumin for 30 seconds."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Add the tomatoes and chickpeas and simmer 20 minutes, mashing a few chickpeas to thicken."
+   },
+   {
+    "position": 4,
+    "section": null,
+    "body": "Season with salt and serve over rice with cilantro."
+   }
+  ],
+  "equipment": [],
+  "notes": [],
+  "owner_name": "Priya P.",
+  "avg_rating": 4.5,
+  "rating_count": 2
+ },
+ {
+  "id": 22,
+  "owner": "priya_p",
+  "title": "Mango Lassi",
+  "slug": "mango-lassi",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 5,
+  "cook_minutes": null,
+  "total_minutes": 5,
+  "yield_text": "2 servings",
+  "servings": 2,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "snack or side"
+  ],
+  "cuisines": [
+   "Indian"
+  ],
+  "tags": [
+   "drink",
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "section": null,
+    "text": "1 1/2 cups mango, chopped",
+    "ingredient": "mango"
+   },
+   {
+    "section": null,
+    "text": "1 cup plain yogurt",
+    "ingredient": "yogurt"
+   },
+   {
+    "section": null,
+    "text": "1/2 cup milk",
+    "ingredient": "milk"
+   },
+   {
+    "section": null,
+    "text": "2 tablespoons granulated sugar",
+    "ingredient": "granulated sugar"
+   },
+   {
+    "section": null,
+    "text": "pinch of cardamom",
+    "ingredient": "cardamom"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Blend everything until smooth."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Taste, add more sugar if needed, and serve cold."
+   }
+  ],
+  "equipment": [],
+  "notes": [],
+  "owner_name": "Priya P.",
+  "avg_rating": 4.0,
+  "rating_count": 1
+ },
+ {
+  "id": 23,
+  "owner": "sam_eats",
+  "title": "Guacamole",
+  "slug": "guacamole",
+  "visibility": "public",
+  "description": null,
+  "forked_from": null,
+  "prep_minutes": 10,
+  "cook_minutes": null,
+  "total_minutes": 10,
+  "yield_text": "4 servings",
+  "servings": 4,
+  "kcal_per_serving": null,
+  "nutrition_text": null,
+  "source_name": null,
+  "source_url": null,
+  "cover_image_url": null,
+  "images": [],
+  "categories": [
+   "snack or side"
+  ],
+  "cuisines": [
+   "Mexican"
+  ],
+  "tags": [
+   "dip",
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "section": null,
+    "text": "3 ripe avocados",
+    "ingredient": "avocado"
+   },
+   {
+    "section": null,
+    "text": "1 lime, juiced",
+    "ingredient": "lime"
+   },
+   {
+    "section": null,
+    "text": "1/2 teaspoon salt",
+    "ingredient": "salt"
+   },
+   {
+    "section": null,
+    "text": "1/4 onion, finely diced",
+    "ingredient": "onion"
+   },
+   {
+    "section": null,
+    "text": "1 jalapeno, seeded and minced",
+    "ingredient": "jalapeno"
+   },
+   {
+    "section": null,
+    "text": "2 tablespoons cilantro, chopped",
+    "ingredient": "cilantro"
+   },
+   {
+    "section": null,
+    "text": "1 tomato, diced",
+    "ingredient": "tomato"
+   }
+  ],
+  "steps": [
+   {
+    "position": 1,
+    "section": null,
+    "body": "Mash the avocados with the lime juice and salt."
+   },
+   {
+    "position": 2,
+    "section": null,
+    "body": "Fold in the onion, jalapeno, cilantro, and tomato."
+   },
+   {
+    "position": 3,
+    "section": null,
+    "body": "Taste, adjust the salt and lime, and serve right away."
+   }
+  ],
+  "equipment": [],
+  "notes": [],
+  "owner_name": "Sam K.",
+  "avg_rating": 5.0,
+  "rating_count": 1
+ }
+]

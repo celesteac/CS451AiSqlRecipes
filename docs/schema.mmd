@@ -1,0 +1,128 @@
+erDiagram
+    app_user ||--o{ recipe : owns
+    recipe |o--o{ recipe : "forked from"
+    recipe ||--o{ recipe_category : ""
+    category ||--o{ recipe_category : ""
+    recipe ||--o{ recipe_cuisine : ""
+    cuisine ||--o{ recipe_cuisine : ""
+    recipe ||--o{ recipe_tag : ""
+    tag ||--o{ recipe_tag : ""
+    recipe ||--o{ recipe_ingredient : contains
+    ingredient |o--o{ recipe_ingredient : ""
+    recipe ||--o{ recipe_step : has
+    recipe ||--o{ recipe_equipment : needs
+    recipe ||--o{ recipe_image : has
+    recipe ||--o{ recipe_note : ""
+    app_user ||--o{ recipe_note : writes
+    recipe ||--o{ recipe_share : ""
+    app_user ||--o{ recipe_share : "shared with"
+    app_user ||--o{ cook_log : cooks
+    recipe ||--o{ cook_log : ""
+    app_user ||--o{ saved_recipe : saves
+    recipe ||--o{ saved_recipe : ""
+    app_user ||--o{ collection : owns
+    collection ||--o{ collection_recipe : ""
+    recipe ||--o{ collection_recipe : ""
+
+    app_user {
+        bigint user_id PK
+        uuid auth_user_id
+        text username
+        text display_name
+        text email
+        text bio
+    }
+    recipe {
+        bigint recipe_id PK
+        bigint owner_id FK
+        bigint forked_from_recipe_id FK
+        text title
+        text visibility "private|unlisted|public"
+        int prep_minutes
+        int cook_minutes
+        int total_minutes
+        text yield_text
+        int servings
+        int kcal_per_serving
+        text source_name
+        text source_url
+        text cover_image_url
+    }
+    category {
+        bigint category_id PK
+        text name
+    }
+    cuisine {
+        bigint cuisine_id PK
+        text name
+    }
+    tag {
+        bigint tag_id PK
+        text name
+    }
+    ingredient {
+        bigint ingredient_id PK
+        text name
+    }
+    recipe_ingredient {
+        bigint recipe_ingredient_id PK
+        bigint recipe_id FK
+        bigint ingredient_id FK
+        text section
+        int position
+        numeric quantity
+        text unit
+        text raw_text
+    }
+    recipe_step {
+        bigint recipe_step_id PK
+        bigint recipe_id FK
+        text section
+        int position
+        text body
+    }
+    recipe_equipment {
+        bigint recipe_id FK
+        int position
+        text name
+    }
+    recipe_image {
+        bigint recipe_image_id PK
+        bigint recipe_id FK
+        text kind
+        text url
+    }
+    recipe_note {
+        bigint recipe_note_id PK
+        bigint recipe_id FK
+        bigint author_id FK
+        text title
+        text body
+    }
+    recipe_share {
+        bigint recipe_id FK
+        bigint shared_with_user_id FK
+        text permission "view|edit"
+    }
+    cook_log {
+        bigint cook_log_id PK
+        bigint user_id FK
+        bigint recipe_id FK
+        date cooked_on
+        smallint rating "1-5"
+    }
+    saved_recipe {
+        bigint user_id FK
+        bigint recipe_id FK
+    }
+    collection {
+        bigint collection_id PK
+        bigint owner_id FK
+        text name
+        text visibility
+    }
+    collection_recipe {
+        bigint collection_id FK
+        bigint recipe_id FK
+        int position
+    }
